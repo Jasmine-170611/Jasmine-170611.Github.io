@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+     <meta charset="utf-8" />	
+     <meta name="viewport" content="width=device-width, intitial scale=1.0" >
+     <a herf="second-page.html">
+     <a herf="index.html">
+     <p><file src="solar system assigment"/></p>
+     <title>Solar system</title>
+     <style>
+           body{
+                margin: 0;
+                height: 100hv;
+                display: flex;
+                align-item: center
+                justify-content: center;
+                backgroung colour: #000;
+                overflow: hidden;
+          }
+
+          .container {
+               front size: 10px
+               width: 40cm
+               height: 40cm
+               position: relative
+         }
+
+         .mecury{
+              posistion= absolute;
+              mass= 0.330;
+              diameter= 4879;
+              density= 5427;
+              gravity= 3.7;
+              length of day= 422.6;
+              distance from sun= 57.9;
+              average temperature= 167;
+              number of moons= 0;
+              notes= closest to the sun;
+         }
+
+          .venus{
+              posistion= absolute;
+              mass= 4.89;
+              diameter= 12104;
+              density= 5243;
+              gravity= 8.9
+              length of day= 2802.0;
+              distance from sun= 108.2;
+              average temperature= 464;
+              number of moons= 0;
+              notes=
+         }
+
+         .earth{
+               posistion= absolute;
+              mass= 5.97;
+              diameter= 12756;
+              density= 5514;
+              gravity= 9.8;
+              length of day= 24;
+              distance from sun= 149.6;
+              average temperature= 15;
+              number of moons= 1;
+              notes= our planet;
+          }
+
+          .mars{
+              posistion= absolute;
+              mass= 0.642;
+              diameter= 6792;
+              density= 3933;
+              gravity= 3.7;
+              length of day= 24.7;
+              distance from sun= 227.9;
+              average temperature= -65;
+              number of moons= 2;
+              notes= the red planet;
+          }
+
+          .jupiter{
+              posistion= absolute;
+              mass= 1898;
+              diameter= 142984;
+              density= 1326;
+              gravity= 23.1;
+              length of day= 9.9;
+              distance from sun= 778.6;
+              average temperature= -110;
+              number of moons=  67;
+              notes= the largest planet
+          }
+
+          .saturn{
+               posistion= absolute;
+              mass= 568;
+              diameter= 120536;
+              density= 687;
+              gravity= 9.0;
+              length of day= 10.7;
+              distance from sun= 1433.5;
+              average temperature= -140
+              number of moons= 62
+              notes=
+         }
+
+         .uranus{
+              posistion= absolute;
+              mass= 86.8;
+              diameter= 51118;
+              density= 1271;
+              gravity= 8.7;
+              length of day= 17.2;
+              distance from sun= 2872.5;
+              average temperature= -195;
+              number of moons= 27
+              notes=
+        }
+
+        .neptune{
+              posistion= absolute;
+              mass= 102;
+              diameter= 49528;
+              density= 1638;
+              gravity= 11.0;
+              length of day= 16.1;
+              distance from sun= 4495.1;
+              average temperature= -200
+              number of moons= 14
+              notes=
+        }
+
+        .pluto{
+              posistion= absolute;
+              mass= 0.0146;
+              diameter= 2370;
+              density= 2095;
+              gravity= 0.7;
+              length of day= 153.3; 
+              distance from sun= 5906.4;
+              average temperature= -225;
+              number of moons= 5
+              notes= declassified as a planet in 2006, but this remains controversial;
+       }
+
+       .ceres{
+              posistion= absolute;
+              mass= 0.000938;
+              diameter= 939;
+              density= 2162;
+              gravity= 0.284;
+              length of day= 9.1;
+              distance from sun= 413;
+              average temperature= -105;
+              number of moons= 0
+              notes=
+       }
+     
+    
+      </style>
+
+</head>
+<body>
+     <div class="container">
+     <div class="mecury"></div> 
+     <div class="venus">
+     <div class="earth">
+     <div class="mars">
+     <div class="jupiter">
+     <div class="saturn">
+     <div class+"uranus">
+     <div class="neptune">
+     <div class="pluto">
+     <div class="ceres">
+      <div class="mecury"></div>
+         <div class="venus"></div>
+    </div>
+</body>
+</html>
