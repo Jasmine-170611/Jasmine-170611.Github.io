@@ -1,0 +1,22 @@
+/* External CSS */
+body {
+    background-color: blue;
+    
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: orange;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr {
+    background-color: indigo;
+}
